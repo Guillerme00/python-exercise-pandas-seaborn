@@ -2,8 +2,8 @@
 
 ## Description
 
-This project fetches video game data from the **RAWG Video Games Database API** and visualizes it using Python.  
-The script creates a scatter plot showing the relationship between the **number of ratings** and the **release year** of games.
+This project fetches video game data from the RAWG Video Games Database API and visualizes it using Python.  
+The script creates a scatter plot showing the relationship between the number of ratings and the release year of games.
 
 Each point in the chart represents a game, and the game name is displayed next to it.
 
